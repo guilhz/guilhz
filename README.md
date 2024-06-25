@@ -30,5 +30,5 @@
 </div>
 
 ###
-## Portfólio:
+## Projetos:
 - [Python - Sistema Bancário](https://github.com/guilhz/sistema-bancario)
