@@ -1,7 +1,5 @@
 ### Hello World 👋
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
 ### Programming Languages
 
 <div align="left">
